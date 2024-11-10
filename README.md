@@ -1,4 +1,27 @@
 # BookShelf-API by Dicoding
+
+- Structure Files
+```
+.
+└── BookShelf_API
+    ├── node_modules
+    ├── src
+    │   ├── Books
+    │   │   └── books.js
+    │   ├── controllers
+    │   │   └── handler.js
+    │   ├── routes
+    │   │   └── routes.js
+    │   ├── test
+    │   │   ├── Bookshelf API Test.postman_collection.json
+    │   │   └── Bookshelf API Test.postman_environment.json
+    │   └── server.js
+    ├── .env
+    ├── eslint.config.js
+    ├── package-lock.json
+    └── package.json
+ ```
+
 - Installing packages :
   - Create package.json <br>
   `npm init --y`
